@@ -1,0 +1,1 @@
+m.naver.com###MM_search_container > .brick-house.grid1_wrap > div.brick-vowel
